@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "safetyAndsecurity"
+    }
+  },
+  "defaultProject": "safetyAndsecurity",
+  "cli": {
+    "analytics": "e844df59-d108-49e7-94a9-83cce6bb54b0"
+  }
 }
